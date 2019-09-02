@@ -1,0 +1,7 @@
+
+## ignore all data files
+data/
+
+#just in case
+*.wav
+
